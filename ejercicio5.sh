@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ $# !=1 ]
+if [ $# != 1 ]
 then
 	echo "ERROR! Tienes que poner $0 y nombre del directorio"
 	exit 1
